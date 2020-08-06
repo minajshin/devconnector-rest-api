@@ -4,7 +4,7 @@
 + This porject is in progress.
 ```
 
-DevConnector is a social network for developers. This repository includes RESTful API server code of DevConnector. It allows users to get the list of all registered developers, profile of each developer, and provides CRUD functionality for post, comment and like.
+DevConnector is a social network for developers built with Node.js, Express and MongoDB. This repository includes RESTful API server code of DevConnector. It allows users to get the list of all registered developers, profile of each developer, and provides CRUD functionality for post, comment and like.
 
 ## Quick Start
 
@@ -44,12 +44,6 @@ $ npm run backend
 | Route          | Description     |
 | -------------- | --------------- |
 | POST api/users | Register a user |
-
-## Technologies
-
-- Node.js
-- Express
-- MongoDB
 
 ## License
 
