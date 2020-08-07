@@ -45,6 +45,12 @@ $ npm run backend
 | -------------- | --------------- |
 | POST api/users | Register a user |
 
+#### Auth:
+
+| Route        | Description         |
+| ------------ | ------------------- |
+| GET api/auth | Get a user by token |
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
