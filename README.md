@@ -47,9 +47,10 @@ $ npm run backend
 
 #### Auth:
 
-| Route        | Description         |
-| ------------ | ------------------- |
-| GET api/auth | Get a user by token |
+| Route         | Description         |
+| ------------- | ------------------- |
+| GET api/auth  | Get a user by token |
+| POST api/auth | Authenticate a user |
 
 ## License
 
