@@ -45,6 +45,12 @@ $ npm run backend
 | -------------- | --------------- |
 | POST api/users | Register a user |
 
+#### Profile:
+
+| Route              | Description              |
+| ------------------ | ------------------------ |
+| GET api/profile/me | Get current user profile |
+
 #### Auth:
 
 | Route         | Description         |
