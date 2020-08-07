@@ -47,9 +47,10 @@ $ npm run backend
 
 #### Profile:
 
-| Route              | Description              |
-| ------------------ | ------------------------ |
-| GET api/profile/me | Get current user profile |
+| Route              | Description                   |
+| ------------------ | ----------------------------- |
+| GET api/profile/me | Get current user profile      |
+| POST api/profile   | Create or update user profile |
 
 #### Auth:
 
