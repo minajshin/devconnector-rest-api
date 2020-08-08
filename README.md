@@ -49,8 +49,9 @@ $ npm run backend
 
 | Route              | Description                   |
 | ------------------ | ----------------------------- |
-| GET api/profile/me | Get current user profile      |
+| GET api/profile    | Get all profiles              |
 | POST api/profile   | Create or update user profile |
+| GET api/profile/me | Get current user profile      |
 
 #### Auth:
 
