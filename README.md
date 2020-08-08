@@ -23,7 +23,8 @@ You will need to create a default.json in the config folder with
 
 ```
 {
-  "mongoURI": 'YOUR_OWN_MONGO_URI',
+  "mongoURI": "YOUR_MONGO_URI",
+  "jwtSecret": "YOUR_JWT_SECRET"
 }
 ```
 
