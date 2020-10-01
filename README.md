@@ -58,11 +58,3 @@ $ npm run backend
 | ------------- | ------------------- |
 | GET api/auth  | Get a user by token |
 | POST api/auth | Authenticate a user |
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Disclaimer
-
-While this project is originally from "MERN Stack Front to Back" course on Udemy, I changed some codes for my sake. If you want to see the original code, please refer to [here](https://github.com/bradtraversy/devconnector_2.0/tree/originalcoursecode).
